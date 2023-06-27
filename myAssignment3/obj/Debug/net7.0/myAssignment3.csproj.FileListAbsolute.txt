@@ -1,0 +1,15 @@
+/Users/saadeddinsalila/Documents/CoreFolder/School/Analyse7/Assignment/gitStuffAssaignment/AssignmentSad/myAssignment3/bin/Debug/net7.0/myAssignment3
+/Users/saadeddinsalila/Documents/CoreFolder/School/Analyse7/Assignment/gitStuffAssaignment/AssignmentSad/myAssignment3/bin/Debug/net7.0/myAssignment3.deps.json
+/Users/saadeddinsalila/Documents/CoreFolder/School/Analyse7/Assignment/gitStuffAssaignment/AssignmentSad/myAssignment3/bin/Debug/net7.0/myAssignment3.runtimeconfig.json
+/Users/saadeddinsalila/Documents/CoreFolder/School/Analyse7/Assignment/gitStuffAssaignment/AssignmentSad/myAssignment3/bin/Debug/net7.0/myAssignment3.dll
+/Users/saadeddinsalila/Documents/CoreFolder/School/Analyse7/Assignment/gitStuffAssaignment/AssignmentSad/myAssignment3/bin/Debug/net7.0/myAssignment3.pdb
+/Users/saadeddinsalila/Documents/CoreFolder/School/Analyse7/Assignment/gitStuffAssaignment/AssignmentSad/myAssignment3/obj/Debug/net7.0/myAssignment3.csproj.AssemblyReference.cache
+/Users/saadeddinsalila/Documents/CoreFolder/School/Analyse7/Assignment/gitStuffAssaignment/AssignmentSad/myAssignment3/obj/Debug/net7.0/myAssignment3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saadeddinsalila/Documents/CoreFolder/School/Analyse7/Assignment/gitStuffAssaignment/AssignmentSad/myAssignment3/obj/Debug/net7.0/myAssignment3.AssemblyInfoInputs.cache
+/Users/saadeddinsalila/Documents/CoreFolder/School/Analyse7/Assignment/gitStuffAssaignment/AssignmentSad/myAssignment3/obj/Debug/net7.0/myAssignment3.AssemblyInfo.cs
+/Users/saadeddinsalila/Documents/CoreFolder/School/Analyse7/Assignment/gitStuffAssaignment/AssignmentSad/myAssignment3/obj/Debug/net7.0/myAssignment3.csproj.CoreCompileInputs.cache
+/Users/saadeddinsalila/Documents/CoreFolder/School/Analyse7/Assignment/gitStuffAssaignment/AssignmentSad/myAssignment3/obj/Debug/net7.0/myAssignment3.dll
+/Users/saadeddinsalila/Documents/CoreFolder/School/Analyse7/Assignment/gitStuffAssaignment/AssignmentSad/myAssignment3/obj/Debug/net7.0/refint/myAssignment3.dll
+/Users/saadeddinsalila/Documents/CoreFolder/School/Analyse7/Assignment/gitStuffAssaignment/AssignmentSad/myAssignment3/obj/Debug/net7.0/myAssignment3.pdb
+/Users/saadeddinsalila/Documents/CoreFolder/School/Analyse7/Assignment/gitStuffAssaignment/AssignmentSad/myAssignment3/obj/Debug/net7.0/myAssignment3.genruntimeconfig.cache
+/Users/saadeddinsalila/Documents/CoreFolder/School/Analyse7/Assignment/gitStuffAssaignment/AssignmentSad/myAssignment3/obj/Debug/net7.0/ref/myAssignment3.dll
